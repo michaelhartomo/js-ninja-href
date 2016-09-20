@@ -1,6 +1,10 @@
 # js-ninja-href
 Javascript native library to hide / cloak your real url link.
 
+Really useful to hide your referral link.
+Get all your lost revenue, because some people don't want to use your referral link.
+
+I will innocently show a clean url, but when the user click ( left , middle, right ) it will redirect them to somewhere else.
 
 Install
 Download the .zip file: https://github.com/michaelhartomo/js-ninja-href/archive/master.zip
@@ -22,4 +26,8 @@ You can also open the link in current window :
 
     <a href="https://tomplayer.top/" class="ninja-href" data-ninja-url="https://m.do.co/c/9072c848dc6e" data-ninja-target="_self"> TOP Charts 100 WORLD & 50 K-POP! </a>
 
-jsFiddle Example : https://jsfiddle.net/t5f7n7gL/
+Very useful to clock referral link just like this :
+
+    <a href="https://google.com/free/RlJPWkVORklSRS1UT01QTEFZRVIuQVBQLU1JQ0hBRUxIQVJUT01PLkNPTQ==" class="ninja-href" data-ninja-url="https://m.do.co/c/9072c848dc6e" data-ninja-target="_self"> GET FREE 10 USD FOR SSD VPS HOSTING! ( You can use it for 2 months ) </a>
+
+jsFiddle Example : https://jsfiddle.net/t5f7n7gL/1/
