@@ -2,12 +2,13 @@
 Javascript native library to hide / cloak your real url link.
 
 Really useful to hide your referral link.
+
 Get all your lost revenue, because some people don't want to use your referral link.
 
-I will innocently show a clean url, but when the user click ( left , middle, right ) it will redirect them to somewhere else.
+It will innocently show a clean url, but when the user click ( left , middle, right ) it will redirect them to somewhere else.
 
 Install
-Download the .zip file: https://github.com/michaelhartomo/js-ninja-href/archive/master.zip
+Download and extract the .zip file: https://github.com/michaelhartomo/js-ninja-href/archive/master.zip
 
 Setup
 Include the script: ninja-href.min.js
